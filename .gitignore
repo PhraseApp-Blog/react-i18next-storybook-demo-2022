@@ -1,0 +1,4 @@
+node_modules
+.dccache
+.vscode/snipsnap.code-snippets
+.DS_Store
